@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ig1z8u.planetjp.online/sitemap.xml
